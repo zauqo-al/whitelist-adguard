@@ -1,1 +1,1 @@
-https://telemetry.n8n.io
+||telemetry.n8n.io^
